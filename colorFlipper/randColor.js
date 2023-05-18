@@ -21,3 +21,4 @@ btn.addEventListener('click', () => {
 const getRandNumber = () =>{
     return Math.floor(Math.random() * x.length);
 }
+// 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
